@@ -1,5 +1,8 @@
 rning giy hub
+<<<<<<< HEAD
 
 special
+shining
+
 
 making changes
